@@ -12,13 +12,13 @@ I'm passionate about creating digital products through code using a variety of p
 
 🛠️ **Languages and tools:**
 
-Javascript - NodeJS - Firebase - React - React-Native - Vtex - TypeScript - Angular - AWS - AEM - Git..etc
+    Javascript - NodeJS - Firebase - React - React-Native - Vtex - TypeScript - Angular - AWS - AEM - Git..etc
 
-HTML5 - CSS - SASS - Bootstrap
+    HTML5 - CSS - SASS - Bootstrap
 
-Github - Gitlab - Bitbucket - Jira - Storybook
+    Github - Gitlab - Bitbucket - Jira - Storybook
 
-Figma - Canva - Photoshop
+    Figma - Canva - Photoshop
 
 💡 **Achievement or Recognition:**
 
