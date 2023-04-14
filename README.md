@@ -12,7 +12,7 @@ I'm passionate about creating digital products through code using a variety of p
 
 🛠️ **Languages and tools:**
 
-    Javascript - NodeJS - Firebase - React - React-Native - Vtex - TypeScript - Angular - AWS - AEM - Git..etc
+    Javascript - NodeJS - Firebase - React - React-Native - Vtex - TypeScript - Angular - AWS - AEM - Git
 
     HTML5 - CSS - SASS - Bootstrap
 
