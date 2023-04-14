@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi world 👋, **I'm Nataly** 👩‍💻 
 
-<!--
-**natalyJallo/natalyJallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer 🚀 from Perú.
+I'm passionate about creating digital products through code using a variety of programming tools.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning on Platzy 💚 Master devs 👩‍🏫 
+- 👯 I’m looking to collaborate on open source React projects.
+- 🤔 I’m looking for help with #Javascript and #Frontend technologies.
+- 📫 How to reach me: 👩‍💻 [LinkedIn]("https://www.linkedin.com/in/nataly-jallo-arana/)
+- 😄 Alias: Natt or Naty
+- ⚡ Fun fact: Music 🎶, TVSeries 📺, Swimming 🏊‍♀️, Gym 🏃‍♀️, Journey 🛫 and Reading 📖 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Languages and tools:**
+
+Javascript - NodeJS - Firebase - React - React-Native - Vtex - TypeScript - Angular - AWS - AEM - Git..etc
+
+HTML5 - CSS - SASS - Bootstrap
+
+Github - Gitlab - Bitbucket - Jira - Storybook
+
+Figma - Canva - Photoshop
+
+💡 **Achievement or Recognition:**
+
+- 1st Place - Best project and team with Alicorp's challenge (Talent Fest)
+- Belong among the top 10 project ideas in the Belatrix 2019 hackathon (Vecinaccion)
